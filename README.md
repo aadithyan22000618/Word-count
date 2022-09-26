@@ -21,6 +21,8 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
+![output](wordcount.png)
+![output](coutput.png)
 
 
 ## RESULT:
